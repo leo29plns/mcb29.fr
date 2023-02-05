@@ -19,12 +19,10 @@ body {
 	--themeColor: rgb(var(--white));
 }
 
-/*
-Dark mode abandonné, faute de temps.
-
 @media (prefers-color-scheme: dark) {
 	body {
 		--white: 35, 42, 53;
 		--black: 255, 255, 255;
+		--grey1: 200, 200, 200;
 	}
-} */
+}
